@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alyshay98
 - 👀 I’m interested in The Legend of Zelda and Sword Art Online.
-- 🌱 I’m currently learning Machine and Assembly language
+- 🌱 I’m currently learning c++ and data structures!
 
 <!---
 Alyshay98/Alyshay98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
