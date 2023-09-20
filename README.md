@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alyshay98
 - 👀 I’m interested in The Legend of Zelda and Sword Art Online.
-- 🌱 I’m currently learning C# and Java!
+- 🌱 I’m currently learning C# and Java while building web applications for Weber State University!
 
 <!---
 Alyshay98/Alyshay98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
